@@ -9,4 +9,4 @@ In order to approach this problem, we will train our LSTM model on five years of
 
 ## Making the predictions and visualizing the results
 
-![image](https://user-images.githubusercontent.com/58425689/110119076-60cc9300-7de3-11eb-99fd-cefe5b85283f.png)
+![image](https://github.com/rjnp2/Stock-price-of-Google/blob/main/images/vis.png)
