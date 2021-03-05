@@ -1,6 +1,6 @@
 # Stock-price-of-Google
 
-Recurrent Neural Networks for predicting Times Series
+[Recurrent Neural Networks](https://github.com/rjnp2/Data-Science/tree/main/tutorial/7.%20Deep%20Learning/RNN) for predicting Times Series
 
 We will make an LSTM that will try to capture the downward and the upward
 trend of the Google stock price because LSTM is the only powerful model that can do this as it performs way better than the traditional models. Apart from this, we are not going to perform a simple LSTM model. It's going to be super robust with some high-dimensionality, several layers as well as it is going to be a stacked LSTM, and then we will add some dropout regularization to avoid overfitting. Also, we will use the most powerful optimizer that we have in the Keras library.
